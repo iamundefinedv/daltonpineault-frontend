@@ -1,5 +1,5 @@
 import Navbar from "@/components/Navbar";
-import { Head } from "next/document";
+import Head from "next/head";
 import React from "react";
 
 export default () => {
