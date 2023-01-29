@@ -1,5 +1,5 @@
 import Navbar from "@/components/Navbar";
-import { Head } from "next/document";
+import Head from "next/head";
 import Link from "next/link";
 import React, { useEffect } from "react";
 import Swiper, { Navigation, Pagination } from 'swiper';
