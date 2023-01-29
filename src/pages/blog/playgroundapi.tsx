@@ -1,8 +1,12 @@
 import Navbar from "@/components/Navbar";
+import { Head } from "next/document";
 import React from "react";
 
 export default () => {
     return (<>
+        <Head>
+            <title>Dalton Pineault | Blog</title>
+        </Head>
         <Navbar />
         <div className="hero hero-single route bg-image" style={{ backgroundImage: "url('../img/lionheart.png')" }}>
             <div className="overlay-mf "></div>

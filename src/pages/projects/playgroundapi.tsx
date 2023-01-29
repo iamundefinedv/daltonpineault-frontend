@@ -1,4 +1,5 @@
 import Navbar from "@/components/Navbar";
+import Head from "next/head";
 import Link from "next/link";
 import React, { useEffect } from "react";
 import Swiper, { Navigation, Pagination } from 'swiper';
@@ -25,6 +26,9 @@ export default () => {
     }, []);
 
     return (<>
+        <Head>
+            <title>Dalton Pineault | Projects</title>
+        </Head>
         <Navbar />
         <div className="hero hero-single route bg-image" style={{ backgroundImage: "url('../img/playgroundapi.png')" }}>
             <div className="overlay-mf"></div>
