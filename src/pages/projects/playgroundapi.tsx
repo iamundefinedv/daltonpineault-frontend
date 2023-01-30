@@ -82,7 +82,7 @@ export default () => {
                                     <li ><strong className="category">Category</strong>: Web Development / Backend</li>
                                     {/* <li><strong>Client</strong>: ASU Company</li> */}
                                     <li><strong className="date">Project date</strong>: 01 Jan, 2022</li>
-                                    <li><strong className="link">Project URL</strong>: <a href="#">www.playgroundapis.net</a></li>
+                                    <li><strong className="link">Project URL</strong>: <a href="https://brainy-wasp-overshirt.cyclic.app/">PlaygroundAPIs</a></li>
                                 </ul>
                             </div>
                             <br />
