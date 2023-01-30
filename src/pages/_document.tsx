@@ -1,5 +1,4 @@
 import Footer from '@/components/Footer';
-import Navbar from '@/components/Navbar';
 import { Html, Head, Main, NextScript } from 'next/document';
 
 export default function Document() {
@@ -17,7 +16,7 @@ export default function Document() {
         <link href="/vendor/glightbox/css/glightbox.min.css" rel="stylesheet" />
         <link href="/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
         <link rel="stylesheet" href="/css/style.css" />
-        <meta name="description" content="I'm a software developer from Northern Ontario,I started learning Web Development in Spring of 2017 and never looked back since!" />
+        <meta name="description" content="I'm a software developer from Northern Ontario, I started learning Web Development in Spring of 2017 and never looked back since! Heres my personal porftolfio" />
         {/* <meta name="viewport" content="width=device-width, initial-scale=1" /> */}
 
         <script src="/vendor/bootstrap/js/bootstrap.min.js"></script>

@@ -500,7 +500,7 @@ export default function Home() {
                         <h6 className="category">Backend Development</h6>
                       </div>
                     </div>
-                    <h3 className="card-title"><Link href='/blog/playgroundpi'>Why did I decide to build a random api?</Link></h3>
+                    <h3 className="card-title"><Link href='/blog/playgroundapi'>Why did I decide to build a random api?</Link></h3>
                     <p className="card-description">
                       Read along to find out why I decided to build a random api and the design choices behind it
                     </p>
